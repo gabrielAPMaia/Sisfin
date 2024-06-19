@@ -1,0 +1,202 @@
+C:\Users\Igor\Desktop\sisfin-Versao5\Dados\bin\Debug\Dados.dll.config
+C:\Users\Igor\Desktop\sisfin-Versao5\Dados\bin\Debug\Dados.dll
+C:\Users\Igor\Desktop\sisfin-Versao5\Dados\bin\Debug\Dados.pdb
+C:\Users\Igor\Desktop\sisfin-Versao5\Dados\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Igor\Desktop\sisfin-Versao5\Dados\bin\Debug\Google.Protobuf.dll
+C:\Users\Igor\Desktop\sisfin-Versao5\Dados\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Igor\Desktop\sisfin-Versao5\Dados\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Igor\Desktop\sisfin-Versao5\Dados\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Igor\Desktop\sisfin-Versao5\Dados\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Igor\Desktop\sisfin-Versao5\Dados\bin\Debug\MySql.Data.dll
+C:\Users\Igor\Desktop\sisfin-Versao5\Dados\bin\Debug\System.Buffers.dll
+C:\Users\Igor\Desktop\sisfin-Versao5\Dados\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Igor\Desktop\sisfin-Versao5\Dados\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Igor\Desktop\sisfin-Versao5\Dados\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Igor\Desktop\sisfin-Versao5\Dados\bin\Debug\System.Memory.dll
+C:\Users\Igor\Desktop\sisfin-Versao5\Dados\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Igor\Desktop\sisfin-Versao5\Dados\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Igor\Desktop\sisfin-Versao5\Dados\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Igor\Desktop\sisfin-Versao5\Dados\bin\Debug\ZstdSharp.dll
+C:\Users\Igor\Desktop\sisfin-Versao5\Dados\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Igor\Desktop\sisfin-Versao5\Dados\bin\Debug\Google.Protobuf.pdb
+C:\Users\Igor\Desktop\sisfin-Versao5\Dados\bin\Debug\Google.Protobuf.xml
+C:\Users\Igor\Desktop\sisfin-Versao5\Dados\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Igor\Desktop\sisfin-Versao5\Dados\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Igor\Desktop\sisfin-Versao5\Dados\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Igor\Desktop\sisfin-Versao5\Dados\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Igor\Desktop\sisfin-Versao5\Dados\bin\Debug\MySql.Data.xml
+C:\Users\Igor\Desktop\sisfin-Versao5\Dados\bin\Debug\System.Buffers.xml
+C:\Users\Igor\Desktop\sisfin-Versao5\Dados\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Igor\Desktop\sisfin-Versao5\Dados\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Igor\Desktop\sisfin-Versao5\Dados\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Igor\Desktop\sisfin-Versao5\Dados\bin\Debug\System.Memory.xml
+C:\Users\Igor\Desktop\sisfin-Versao5\Dados\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Igor\Desktop\sisfin-Versao5\Dados\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Igor\Desktop\sisfin-Versao5\Dados\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Igor\Desktop\sisfin-Versao5\Dados\obj\Debug\Dados.csproj.AssemblyReference.cache
+C:\Users\Igor\Desktop\sisfin-Versao5\Dados\obj\Debug\Dados.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\sisfin-Versao5\Dados\obj\Debug\Dados.csproj.Up2Date
+C:\Users\Igor\Desktop\sisfin-Versao5\Dados\obj\Debug\Dados.dll
+C:\Users\Igor\Desktop\sisfin-Versao5\Dados\obj\Debug\Dados.pdb
+C:\Users\Igor\Desktop\sisfin-Versao5\Dados\bin\Debug\APP_DATA\Database.mdf
+C:\Users\Igor\Desktop\sisfin-Versao5\Dados\bin\Debug\APP_DATA\Database_log.ldf
+C:\Users\Igor\Desktop\sisfin\Dados\bin\Debug\Dados.dll.config
+C:\Users\Igor\Desktop\sisfin\Dados\bin\Debug\Dados.dll
+C:\Users\Igor\Desktop\sisfin\Dados\bin\Debug\Dados.pdb
+C:\Users\Igor\Desktop\sisfin\Dados\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Igor\Desktop\sisfin\Dados\bin\Debug\Google.Protobuf.dll
+C:\Users\Igor\Desktop\sisfin\Dados\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Igor\Desktop\sisfin\Dados\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Igor\Desktop\sisfin\Dados\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Igor\Desktop\sisfin\Dados\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Igor\Desktop\sisfin\Dados\bin\Debug\MySql.Data.dll
+C:\Users\Igor\Desktop\sisfin\Dados\bin\Debug\System.Buffers.dll
+C:\Users\Igor\Desktop\sisfin\Dados\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Igor\Desktop\sisfin\Dados\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Igor\Desktop\sisfin\Dados\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Igor\Desktop\sisfin\Dados\bin\Debug\System.Memory.dll
+C:\Users\Igor\Desktop\sisfin\Dados\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Igor\Desktop\sisfin\Dados\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Igor\Desktop\sisfin\Dados\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Igor\Desktop\sisfin\Dados\bin\Debug\ZstdSharp.dll
+C:\Users\Igor\Desktop\sisfin\Dados\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Igor\Desktop\sisfin\Dados\bin\Debug\Google.Protobuf.pdb
+C:\Users\Igor\Desktop\sisfin\Dados\bin\Debug\Google.Protobuf.xml
+C:\Users\Igor\Desktop\sisfin\Dados\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Igor\Desktop\sisfin\Dados\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Igor\Desktop\sisfin\Dados\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Igor\Desktop\sisfin\Dados\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Igor\Desktop\sisfin\Dados\bin\Debug\MySql.Data.xml
+C:\Users\Igor\Desktop\sisfin\Dados\bin\Debug\System.Buffers.xml
+C:\Users\Igor\Desktop\sisfin\Dados\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Igor\Desktop\sisfin\Dados\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Igor\Desktop\sisfin\Dados\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Igor\Desktop\sisfin\Dados\bin\Debug\System.Memory.xml
+C:\Users\Igor\Desktop\sisfin\Dados\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Igor\Desktop\sisfin\Dados\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Igor\Desktop\sisfin\Dados\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Igor\Desktop\sisfin\Dados\obj\Debug\Dados.csproj.AssemblyReference.cache
+C:\Users\Igor\Desktop\sisfin\Dados\obj\Debug\Dados.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\sisfin\Dados\obj\Debug\Dados.csproj.Up2Date
+C:\Users\Igor\Desktop\sisfin\Dados\obj\Debug\Dados.dll
+C:\Users\Igor\Desktop\sisfin\Dados\obj\Debug\Dados.pdb
+C:\Users\gabri\Downloads\sisfin\sisfin\Dados\bin\Debug\Dados.dll.config
+C:\Users\gabri\Downloads\sisfin\sisfin\Dados\bin\Debug\Dados.dll
+C:\Users\gabri\Downloads\sisfin\sisfin\Dados\bin\Debug\Dados.pdb
+C:\Users\gabri\Downloads\sisfin\sisfin\Dados\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\gabri\Downloads\sisfin\sisfin\Dados\bin\Debug\Google.Protobuf.dll
+C:\Users\gabri\Downloads\sisfin\sisfin\Dados\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\gabri\Downloads\sisfin\sisfin\Dados\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\gabri\Downloads\sisfin\sisfin\Dados\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\gabri\Downloads\sisfin\sisfin\Dados\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\gabri\Downloads\sisfin\sisfin\Dados\bin\Debug\MySql.Data.dll
+C:\Users\gabri\Downloads\sisfin\sisfin\Dados\bin\Debug\System.Buffers.dll
+C:\Users\gabri\Downloads\sisfin\sisfin\Dados\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\gabri\Downloads\sisfin\sisfin\Dados\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gabri\Downloads\sisfin\sisfin\Dados\bin\Debug\System.IO.Pipelines.dll
+C:\Users\gabri\Downloads\sisfin\sisfin\Dados\bin\Debug\System.Memory.dll
+C:\Users\gabri\Downloads\sisfin\sisfin\Dados\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\gabri\Downloads\sisfin\sisfin\Dados\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gabri\Downloads\sisfin\sisfin\Dados\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\gabri\Downloads\sisfin\sisfin\Dados\bin\Debug\ZstdSharp.dll
+C:\Users\gabri\Downloads\sisfin\sisfin\Dados\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\gabri\Downloads\sisfin\sisfin\Dados\bin\Debug\Google.Protobuf.pdb
+C:\Users\gabri\Downloads\sisfin\sisfin\Dados\bin\Debug\Google.Protobuf.xml
+C:\Users\gabri\Downloads\sisfin\sisfin\Dados\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\gabri\Downloads\sisfin\sisfin\Dados\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\gabri\Downloads\sisfin\sisfin\Dados\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\gabri\Downloads\sisfin\sisfin\Dados\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\gabri\Downloads\sisfin\sisfin\Dados\bin\Debug\MySql.Data.xml
+C:\Users\gabri\Downloads\sisfin\sisfin\Dados\bin\Debug\System.Buffers.xml
+C:\Users\gabri\Downloads\sisfin\sisfin\Dados\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\gabri\Downloads\sisfin\sisfin\Dados\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\gabri\Downloads\sisfin\sisfin\Dados\bin\Debug\System.IO.Pipelines.xml
+C:\Users\gabri\Downloads\sisfin\sisfin\Dados\bin\Debug\System.Memory.xml
+C:\Users\gabri\Downloads\sisfin\sisfin\Dados\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\gabri\Downloads\sisfin\sisfin\Dados\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\gabri\Downloads\sisfin\sisfin\Dados\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\gabri\Downloads\sisfin\sisfin\Dados\obj\Debug\Dados.csproj.AssemblyReference.cache
+C:\Users\gabri\Downloads\sisfin\sisfin\Dados\obj\Debug\Dados.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Downloads\sisfin\sisfin\Dados\obj\Debug\Dados.csproj.Up2Date
+C:\Users\gabri\Downloads\sisfin\sisfin\Dados\obj\Debug\Dados.dll
+C:\Users\gabri\Downloads\sisfin\sisfin\Dados\obj\Debug\Dados.pdb
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin\sisfin\Dados\bin\Debug\Dados.dll.config
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin\sisfin\Dados\bin\Debug\Dados.dll
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin\sisfin\Dados\bin\Debug\Dados.pdb
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin\sisfin\Dados\bin\Debug\BouncyCastle.Cryptography.dll
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin\sisfin\Dados\bin\Debug\Google.Protobuf.dll
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin\sisfin\Dados\bin\Debug\K4os.Compression.LZ4.dll
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin\sisfin\Dados\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin\sisfin\Dados\bin\Debug\K4os.Hash.xxHash.dll
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin\sisfin\Dados\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin\sisfin\Dados\bin\Debug\MySql.Data.dll
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin\sisfin\Dados\bin\Debug\System.Buffers.dll
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin\sisfin\Dados\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin\sisfin\Dados\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin\sisfin\Dados\bin\Debug\System.IO.Pipelines.dll
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin\sisfin\Dados\bin\Debug\System.Memory.dll
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin\sisfin\Dados\bin\Debug\System.Numerics.Vectors.dll
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin\sisfin\Dados\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin\sisfin\Dados\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin\sisfin\Dados\bin\Debug\ZstdSharp.dll
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin\sisfin\Dados\bin\Debug\BouncyCastle.Cryptography.xml
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin\sisfin\Dados\bin\Debug\Google.Protobuf.pdb
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin\sisfin\Dados\bin\Debug\Google.Protobuf.xml
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin\sisfin\Dados\bin\Debug\K4os.Compression.LZ4.xml
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin\sisfin\Dados\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin\sisfin\Dados\bin\Debug\K4os.Hash.xxHash.xml
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin\sisfin\Dados\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin\sisfin\Dados\bin\Debug\MySql.Data.xml
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin\sisfin\Dados\bin\Debug\System.Buffers.xml
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin\sisfin\Dados\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin\sisfin\Dados\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin\sisfin\Dados\bin\Debug\System.IO.Pipelines.xml
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin\sisfin\Dados\bin\Debug\System.Memory.xml
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin\sisfin\Dados\bin\Debug\System.Numerics.Vectors.xml
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin\sisfin\Dados\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin\sisfin\Dados\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin\sisfin\Dados\obj\Debug\Dados.csproj.AssemblyReference.cache
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin\sisfin\Dados\obj\Debug\Dados.csproj.CoreCompileInputs.cache
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin\sisfin\Dados\obj\Debug\Dados.csproj.Up2Date
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin\sisfin\Dados\obj\Debug\Dados.dll
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin\sisfin\Dados\obj\Debug\Dados.pdb
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin - Copia\sisfin\Dados\bin\Debug\Dados.dll.config
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin - Copia\sisfin\Dados\bin\Debug\Dados.dll
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin - Copia\sisfin\Dados\bin\Debug\Dados.pdb
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin - Copia\sisfin\Dados\bin\Debug\BouncyCastle.Cryptography.dll
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin - Copia\sisfin\Dados\bin\Debug\Google.Protobuf.dll
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin - Copia\sisfin\Dados\bin\Debug\K4os.Compression.LZ4.dll
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin - Copia\sisfin\Dados\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin - Copia\sisfin\Dados\bin\Debug\K4os.Hash.xxHash.dll
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin - Copia\sisfin\Dados\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin - Copia\sisfin\Dados\bin\Debug\MySql.Data.dll
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin - Copia\sisfin\Dados\bin\Debug\System.Buffers.dll
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin - Copia\sisfin\Dados\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin - Copia\sisfin\Dados\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin - Copia\sisfin\Dados\bin\Debug\System.IO.Pipelines.dll
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin - Copia\sisfin\Dados\bin\Debug\System.Memory.dll
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin - Copia\sisfin\Dados\bin\Debug\System.Numerics.Vectors.dll
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin - Copia\sisfin\Dados\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin - Copia\sisfin\Dados\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin - Copia\sisfin\Dados\bin\Debug\ZstdSharp.dll
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin - Copia\sisfin\Dados\bin\Debug\BouncyCastle.Cryptography.xml
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin - Copia\sisfin\Dados\bin\Debug\Google.Protobuf.pdb
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin - Copia\sisfin\Dados\bin\Debug\Google.Protobuf.xml
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin - Copia\sisfin\Dados\bin\Debug\K4os.Compression.LZ4.xml
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin - Copia\sisfin\Dados\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin - Copia\sisfin\Dados\bin\Debug\K4os.Hash.xxHash.xml
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin - Copia\sisfin\Dados\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin - Copia\sisfin\Dados\bin\Debug\MySql.Data.xml
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin - Copia\sisfin\Dados\bin\Debug\System.Buffers.xml
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin - Copia\sisfin\Dados\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin - Copia\sisfin\Dados\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin - Copia\sisfin\Dados\bin\Debug\System.IO.Pipelines.xml
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin - Copia\sisfin\Dados\bin\Debug\System.Memory.xml
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin - Copia\sisfin\Dados\bin\Debug\System.Numerics.Vectors.xml
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin - Copia\sisfin\Dados\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin - Copia\sisfin\Dados\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin - Copia\sisfin\Dados\obj\Debug\Dados.csproj.AssemblyReference.cache
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin - Copia\sisfin\Dados\obj\Debug\Dados.csproj.CoreCompileInputs.cache
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin - Copia\sisfin\Dados\obj\Debug\Dados.dll
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin - Copia\sisfin\Dados\obj\Debug\Dados.pdb
+D:\COTIL - 2024\Tecnico 2024\Matioli\sisfin - Copia\sisfin\Dados\obj\Debug\Dados.csproj.CopyComplete
